@@ -52,10 +52,13 @@
 
 ## GitHub Stats
 
-<div align="center">
+<div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dnyanit&show_icons=true&theme=radical&hide_border=false&border_radius=8" height="190" alt="Dnyanit's GitHub Stats" />
+![](https://github-readme-stats.vercel.app/api?username=cosKord&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cosKord&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosKord&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanit&layout=compact&theme=radical&hide_border=false&border_radius=8" height="190" alt="Most Used Languages" />
+## Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bigg_ducc) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32230526) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dnyanitbhusari21@gmail.com) 
 
 </div>
