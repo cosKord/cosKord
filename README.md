@@ -50,15 +50,15 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 
-## GitHub Stats
+### GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=coskord&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=coskord&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=coskord&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div>
-
-![](https://github-readme-stats.vercel.app/api?username=cosKord&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cosKord&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cosKord&theme=nightowl&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bigg_ducc) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32230526) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dnyanitbhusari21@gmail.com) 
+---
+[![](https://komarev.com/ghpvc/?username=coskord&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
