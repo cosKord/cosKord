@@ -8,13 +8,13 @@
   <a href="https://leetcode.com/u/Dnyanit/"><img src="./assets/link-leetcode.svg" alt="LeetCode" /></a>
 </p>
 
-<table align="center" width="1144">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <p><strong>Highlights</strong></p>
-      <a href="https://papercall-gg.vercel.app"><img width="364" src="./assets/coskord-papercall.svg" alt="PaperCall project card" /></a>
-      <a href="https://slowpour-xi.vercel.app"><img width="364" src="./assets/coskord-slowpour.svg" alt="SlowPour project card" /></a>
-      <a href="https://github.com/cosKord/Terrain-Gen"><img width="364" src="./assets/coskord-terraingen.svg" alt="Terrain Gen project card" /></a>
+      <a href="https://papercall-gg.vercel.app"><img width="270" src="./assets/coskord-papercall.svg" alt="PaperCall project card" /></a>
+      <a href="https://slowpour-xi.vercel.app"><img width="270" src="./assets/coskord-slowpour.svg" alt="SlowPour project card" /></a>
+      <a href="https://github.com/cosKord/Terrain-Gen"><img width="270" src="./assets/coskord-terraingen.svg" alt="Terrain Gen project card" /></a>
     </td>
   </tr>
 </table>
